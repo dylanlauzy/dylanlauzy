@@ -4,5 +4,6 @@ I'm a Computer Science student at the University of British Columbia interested 
 
 I'm currently working on projects to learn
 - React.js
-- Tailwind
-- Solidity
+- Node js
+- Express js
+- Tailwind CSS
