@@ -1,9 +1,14 @@
 <h1 style="align=center">Hi there 👋 I'm Dylan!</h1>
 
-I'm a Computer Science student at the University of British Columbia interested in web development, machine learning, blockchain technology and more
+Hi! I'm Dylan, a second-year CS and Mathematics major at UBC passionate about how data and technology can be applied to complex problems.
 
-I'm currently working on projects to learn
-- React.js
-- Node js
-- Express js
-- Tailwind CSS
+I approach my personal and professional life with a belief in the power of lifelong learning, a sense of adventure and optimism for what can be achieved by individuals and communities.
+
+I love conversations about new technologies, startups, and machine learning. I also enjoy spending my time writing, rock climbing, biking and reading.
+
+I'm currently working on projects to master
+- React
+- ExpressJS
+- Serverless (using Apollo GraphQL)
+- Machine Learning (TensorFlow, scikit-learn)
+- OpenCV
