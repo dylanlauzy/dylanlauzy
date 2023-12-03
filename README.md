@@ -7,7 +7,6 @@ I approach my personal and professional life with a belief in the power of lifel
 I love conversations about new technologies, startups, and machine learning. I also enjoy spending my time writing, rock climbing, biking and reading.
 
 I'm currently working on projects to further understand
-- React
-- Serverless
-- Machine Learning (TensorFlow, scikit-learn)
-- OpenCV
+- Full-stack web development
+- User-centric design
+- Machine learning
